@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/MyViewPager2_InJava/app/src/main/res/layout/activity_main.xml" value="0.2020389249304912" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/MyViewPager2_InJava/app/src/main/res/layout/activity_second.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/MyViewPager2_InJava/app/src/main/res/layout/fragment_blank.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/MyViewPager2_InJava/app/src/main/res/layout/fragment_dashboard.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/MyViewPager2_InJava/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/MyViewPager2_InJava/app/src/main/res/layout/fragment_notification.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/MyViewPager2_InJava/app/src/main/res/layout/fragment_profile.xml" value="0.2359375" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/MyViewPager2_InJava/app/src/main/res/layout/item_image.xml" value="0.29075425790754256" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/MyViewPager2_InJava/app/src/main/res/menu/my_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
